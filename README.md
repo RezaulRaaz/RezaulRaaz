@@ -1,10 +1,7 @@
-### Hi there, I'm Rezaul Raaz -[website] 👋
+### Hi there, I'm Rezaul Houqe Raaz👋
 
 ## I'm a  Developer!
 - 🔭 I’m currently working on a [Adhostage][adhostage]!
-- 🌱 I’m currently Devloping a Ecommerce Website [Neerveek][neerveek] 
-- 🌱 I’m currently Devloping a Ecommerce Website [Supremous][supremous] 
-- 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to travel / making vlog
 ### Connect with me:
 
