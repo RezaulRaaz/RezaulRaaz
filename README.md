@@ -1,7 +1,7 @@
 ### Hi there, I'm Rezaul Houqe Raaz👋
 
 ## I'm a  Developer!
-- 🔭 I’m currently working on a [Adhostage][adhostage]!
+- 🔭 I’m currently working on a [Ringer Soft][adhostage]!
 - ⚡ Fun fact: I love to travel / making vlog
 ### Connect with me:
 
@@ -38,6 +38,6 @@
 [website]: https://rezaulraaz.com
 [supremous]: https://www.supremous.com
 [neerveek]: https://neerveek.com
-[adhostage]:http://adhostage.com
+[adhostage]:http://ringersoft.com
 [instagram]: https://www.instagram.com/rezaul__raaz/
 [linkedin]: https://www.linkedin.com/in/rezaul-haque-raz/
