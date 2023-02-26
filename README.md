@@ -1,7 +1,6 @@
 ### Hi there, I'm Rezaul Houqe Raaz👋
 
 ## I'm a  Developer!
-- 🔭 I’m currently working on a [Ringer Soft][adhostage]!
 - ⚡ Fun fact: I love to travel / making vlog
 ### Connect with me:
 
